@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am an undergraduate student double majoring in Computer Science and Economics at the University of North Carolina at Chapel Hill planning to graduate by May 2025. Once completed with undergraduate degree, I intend to apply to graduate school and pursue a Ph.D. in the field of Finance.
+I am an undergraduate student double majoring in Computer Science and Economics at the University of North Carolina at Chapel Hill planning to graduate by May 2025. 
+
+Once completed with undergraduate degree, I intend to apply to graduate school and pursue a Ph.D. in the field of Finance.
 
 ## Research Interests
 
