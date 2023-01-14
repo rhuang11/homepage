@@ -16,7 +16,7 @@ Once completed with undergraduate degree, I intend to apply to graduate school a
 
 ## News
 
-- **[January. 2023]** Began progress on my personal first research publication independently.
+- **[January. 2023]** Began progress on my personal first research publication.
 - **[August. 2022]** Began assisting in research for Professor Huang at UNC Greensboro.
 - **[July. 2022]** Began studies at UNC Chapel Hill.
 
