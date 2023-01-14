@@ -14,6 +14,7 @@ I am an undergraduate student double majoring in Computer Science and Economics 
 
 ## News
 
+- **[January. 2023]** Began progress on my personal first research publication independently.
 - **[August. 2022]** Began assisting in research for Professor Huang at UNC Greensboro.
 - **[July. 2022]** Began studies at UNC Chapel Hill.
 
