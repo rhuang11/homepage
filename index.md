@@ -4,20 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am an undergraduate student double majoring in Computer Science and Economics at the University of North Carolina at Chapel Hill planning to graduate by May 2025. Once completed with undergraduate degree, I intend to apply to graduate school and pursue a Ph.D. in the field of Finance.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Finance:** asset pricing, portfolio management, financial econometrics, machine learning
+- **Economics:** computational economics, machine learning, international economics
+- **Machine Learning:** predicting stock trends, predicting the market
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[August. 2022]** Began assisting in research for Professor Huang at UNC Greensboro.
+- **[July. 2022]** Began studies at UNC Chapel Hill.
 
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
