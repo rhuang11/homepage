@@ -16,7 +16,9 @@ Once completed with undergraduate degree, I intend to apply to graduate school a
 
 ## News
 
+- **[June. 2023]** Attending IDEAL Get Ready for Research Conference in Chicago, IL.
+- **[February. 2023]** Began assisting on research project for Professor Bao at UNC Chapel-Hill.
 - **[January. 2023]** Began progress on my personal first research publication.
-- **[August. 2022]** Began assisting in research for Professor Huang at UNC Greensboro.
+- **[August. 2022]** Began assisting on research project for Professor Huang at UNC Greensboro.
 - **[July. 2022]** Began studies at UNC Chapel Hill.
 
