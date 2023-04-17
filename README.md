@@ -8,11 +8,15 @@
 <br>
 *Feel free to use and share the source code anywhere you like.*
 
+The latest version of my homepage is available here: [[link](https://github.com/yaoyao-liu/yaoyao-liu.github.io)]
+<br>
+A template for Max Planck Institute for Informatics is available here: [[link](https://github.com/yaoyao-liu/minimal-light-theme-mpi-inf)]
+
 ## Features
 
 - Simple and elegant personal homepage theme
-- Jekyll theme, deploy automatically by GitHub pages
-- Basic Search Engine Optimization
+- Jekyll theme, automatically deployed by GitHub Pages
+- Basic search engine optimization
 - Mobile friendly
 - Supporting Markdown 
 - Supporting dark mode
@@ -36,8 +40,7 @@
 ├── README_zh_Hans.md            #  the readme file (Simplified Chinese)
 ├── README_zh_Hant.md            #  the readme file (Traditional Chinese)
 ├── _config.yml                  #  the Jekyll configuration file, including some options of the page  
-├── index.md                     #  the content of the index page, using Markdown
-└── minimal-light.gemspec        #  another RubyGems related file
+└── index.md                     #  the content of the index page, using Markdown
 ```
 
 ## Usage
