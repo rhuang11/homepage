@@ -23,3 +23,17 @@ Once completed with undergraduate degree, I intend to apply to graduate school a
 - **[August. 2022]** Began assisting on research project for Professor Huang at UNC Greensboro.
 - **[July. 2022]** Began studies at UNC Chapel Hill.
 
+## Courses Taken
+
+- Multivariable Calculus
+- Data Structures and Analysis (Java)
+- Differential Equations
+- Discrete Mathematics
+- Econometrics
+- Financial Accounting
+- Foundations of Programming (Python)
+- Linear Algebra
+- Intermediate Microeconomics
+- Intermediate Macroeconomics
+- Systems Fundamentals (C)
+- Introduction to Probability and Statistics
