@@ -10,12 +10,13 @@ Once completed with undergraduate degree, I intend to apply to graduate school a
 
 ## Research Interests
 
-- **Finance:** asset pricing, portfolio management, financial econometrics, machine learning
-- **Economics:** computational economics, machine learning, international economics
-- **Machine Learning:** predicting stock trends, predicting the market
+- **Finance:** asset pricing, portfolio management, corporate finance
+- **Economics:** computational economics, environmental economics, financial economics 
+- **Deep Learning:** predicting stock return, financial statement fraud detection
 
 ## News
 
+- **[June. 2024]** Began GraLNA REU at UNC Greensboro working under Dr. Zhu and Dr. Tong. 
 - **[July. 2023]** Concluded research project for Professor Bao at UNC Chapel-Hill.
 - **[June. 2023]** Attending IDEAL Get Ready for Research Conference in Chicago, IL.
 - **[February. 2023]** Began assisting on research project for Professor Bao at UNC Chapel-Hill.
@@ -31,9 +32,15 @@ Once completed with undergraduate degree, I intend to apply to graduate school a
 - Discrete Mathematics
 - Econometrics
 - Financial Accounting
+- Financial Economics
 - Foundations of Programming (Python)
 - Linear Algebra
 - Intermediate Microeconomics
 - Intermediate Macroeconomics
 - Systems Fundamentals (C)
+- Computer Vision
+- Algorithms and Analysis
+- Models of Language and Computation
+- Files and Databases (SQL)
 - Introduction to Probability and Statistics
+- Probability and Inference
