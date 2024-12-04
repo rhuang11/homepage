@@ -9,7 +9,7 @@ I am an undergraduate student double majoring in Computer Science and Economics 
 I am currently applying to graduate school to pursue a Ph.D. in the field of Finance, as well as research assistant positions in the field of Finance and Economics.
 
 ## Working Paper 
-- ”Financial Statement Fraud Detection Using Large Language Models”, Ryan Huang, 2024)
+- ``Financial Statement Fraud Detection Using Large Language Models”, Ryan Huang, 2024
 
 
 ## Research Interests
