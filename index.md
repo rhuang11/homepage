@@ -6,11 +6,15 @@ layout: homepage
 
 I am an undergraduate student double majoring in Computer Science and Economics at the University of North Carolina at Chapel Hill planning to graduate by May 2025. 
 
-Once completed with undergraduate degree, I intend to apply to graduate school and pursue a Ph.D. in the field of Finance.
+I am currently applying to graduate school to pursue a Ph.D. in the field of Finance, as well as research assistant positions in the field of Finance and Economics.
+
+## Working Paper 
+- ”Financial Statement Fraud Detection Using Large Language Models”, Ryan Huang, 2024)
+
 
 ## Research Interests
 
-- **Finance:** asset pricing, portfolio management, corporate finance
+- **Finance:** asset pricing, corporate finance
 - **Economics:** computational economics, environmental economics, financial economics 
 - **Deep Learning:** predicting stock return, financial statement fraud detection
 
